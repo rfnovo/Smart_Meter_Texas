@@ -4,8 +4,8 @@ Based on the original core integration (https://github.com/home-assistant/core/t
 
 Updated to fix the issue with the SSL certificate described here: https://github.com/home-assistant/core/issues/57582
 
-Another alternative working projects:
-https://github.com/scadaguru/pysmtreader
+Another working projects as alternatives:
+https://github.com/scadaguru/pysmtreader and
 https://github.com/stmrocket/ha-smartmetertexas
 
 
